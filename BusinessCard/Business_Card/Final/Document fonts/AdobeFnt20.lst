@@ -1,0 +1,83 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BoldCond
+FamilyName:Helvetica LT Std
+StyleName:Bold Condensed
+FullName:Helvetica LT Std Bold Condensed
+MenuName:Helvetica LT Std Cond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Rock\Documents\GitHub\BusinessCart\BusinessCard\Business_Card\Final\Document fonts\HelveticaLTStd-BoldCond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30920
+FileModTime:1550886216
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond Bold
+NameArray:0,Mac,4,Helvetica LT Std Bold Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Cond
+FamilyName:Helvetica LT Std
+StyleName:Condensed
+FullName:Helvetica LT Std Condensed
+MenuName:Helvetica LT Std Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Rock\Documents\GitHub\BusinessCart\BusinessCard\Business_Card\Final\Document fonts\HelveticaLTStd-Cond.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30176
+FileModTime:1550886216
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond
+NameArray:0,Mac,4,Helvetica LT Std Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Light
+FamilyName:Helvetica LT Std
+StyleName:Light
+FullName:Helvetica LT Std Light
+MenuName:Helvetica LT Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Rock\Documents\GitHub\BusinessCart\BusinessCard\Business_Card\Final\Document fonts\HelveticaLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28780
+FileModTime:1550886216
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Light
+NameArray:0,Win,1,Helvetica LT Std Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
